@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(125, 146, 192);
+    
+    }
+
+img {
+    border-radius: 50%;
+    width: 30%;
+    height: 35%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(15, 43, 104);
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#header {
+    border-radius: 100;
+    width: 30%;
+    height: 15%;
+    border-width: 3px;
+    border-style: double;
+    border-color: rgb(26, 57, 121);
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
